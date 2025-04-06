@@ -63,4 +63,5 @@ if number == "1":
 if number == "2":
 	os.system("python report/report.py")
 elif number == "3":
-    print ("This section is being updated and will be added soon \n\nChannel : @esfelurm")
+    print ("This section is being updated and will be added soon \n\nChannel :@SAHIMPATUKIYA")
+	
